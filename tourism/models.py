@@ -46,6 +46,7 @@ class slider(models.Model):
         return self.subject
 
 
+
 class Employee(models.Model):
     emplyee_regNo = models.TextField(unique=True)
     emplyee_name = models.TextField()
