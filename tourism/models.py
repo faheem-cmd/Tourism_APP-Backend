@@ -59,6 +59,7 @@ class Employee(models.Model):
 
 
 
+
 class gallery(models.Model):
     uri = models.URLField(max_length=500)
 
