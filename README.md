@@ -5,8 +5,8 @@
  #- Domain - https://faheemk.pythonanywhere.com/
  # Admin Panel  -  https://faheemk.pythonanywhere.com/admin/
  
- username: admin
- password: 1234
+- username: admin
+- password: 1234
  
  
  
